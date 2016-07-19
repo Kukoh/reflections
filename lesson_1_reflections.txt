@@ -1,0 +1,43 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It is a very quick and convenient way to find the bug with the help of the computer.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Since sometimes you may forget to save the previous version of a file, with this in mind, you can get easy access to the previous version.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Manually choosing when to create a commit would be more logical, but humans sometimes can make errors; while having versions automatically saved could cause the files to be very large, and not logical, but it won't forget to make commits like humans.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	I think it is becaused of the attribute of workflows, on Google docs, users tend to deal with documents separately, while like Git, programmers may have a much more systematic thinking pattern, they may link different files together, and interrelate them. That's why Git allows saving multiple files in one commit, while others treat each file separately.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+	I can use git log to view messages of commits, and use git diff to compare the difference between two commits. Though I realized deeper the commits in the log provided, the earlier the commits were saved.
+
+6. How might using version control make you more confident to make changes that could break something?
+	
+	I can go back and trace where the bug was introduced without having to check the codes line by line, that's fairly convenient, which could help saving a lot of time in the future.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+	
+	Hmm, I may try git for developing an iOs app? or some other programs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
