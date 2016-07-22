@@ -5,3 +5,13 @@
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area is an intermidiate area between working directory and repository, which git allows you to get more control of the changes done on the repository, which is that you can add one file to the staging area at a time and bundles them to add to the repository to make a logical commit.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+	By using git add, check git satus, git diff, git commit, git diff --staged.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you want to branch out to try some experimental change to your code. This will help you organize the experimental change by not changing to the master branch, and you don't need to change back and forward if the changes introduces new bugs or do not work out.
+
+	
