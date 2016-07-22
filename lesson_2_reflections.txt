@@ -22,7 +22,11 @@
 
 	By merging two branches together, we combined the codes collaborated within a group. The reason why we represent it in a diagram is that we can view the branch and merging in a more systematic way.
 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+	the Git's automatic merging helps to facilitate collaboration to be efficient when there's no conflicts on the co-workers' coding, but it needs manually detection to decide which code to include when the same part of code is revised by both of the co-workers.
+	
+	However, doing merges manually can be time consuming and laborious, but you can keep track of what each coder did on the codes, and decide which new codes to replace the original one. That's necessary, since automatic merging needs doing merges manually when there are conflicts on the coding of two or more co-workers. 
 
 
 
