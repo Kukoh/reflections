@@ -14,4 +14,7 @@
 
 	When you want to branch out to try some experimental change to your code. This will help you organize the experimental change by not changing to the master branch, and you don't need to change back and forward if the changes introduces new bugs or do not work out.
 
-	
+5. How do the diagrams help you visualize the branch structure?
+
+	The diagrams makes me view the branch structure in a more clear and visual way.
+
