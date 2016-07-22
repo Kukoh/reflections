@@ -18,3 +18,23 @@
 
 	The diagrams makes me view the branch structure in a more clear and visual way.
 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	By merging two branches together, we combined the codes collaborated within a group. The reason why we represent it in a diagram is that we can view the branch and merging in a more systematic way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
