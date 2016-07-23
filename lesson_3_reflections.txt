@@ -24,7 +24,9 @@
 
 	Without git or github, I may work with google docs, that's more easier for people without basic knowledge of git or github. While now that I have knew about git and github, I think it is quite a systematic way to collaborate, and there's a guarder in terms of the function of pull request.
 
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
+	Making changes in a separate branch enables me to collaborate and communate with co-workers, and the benefits are to activate communication on the collaboration and collaborate with others or try experimental changes more bravely, while it could be a bit more work to pull and merge and push, compared with directly making changes in master.
 
 
 
