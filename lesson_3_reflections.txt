@@ -20,3 +20,16 @@
 
 	Having a copy of the last know state of the remote stored locally can help you to do the detect and merge the conflicts offline.
 
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without git or github, I may work with google docs, that's more easier for people without basic knowledge of git or github. While now that I have knew about git and github, I think it is quite a systematic way to collaborate, and there's a guarder in terms of the function of pull request.
+
+
+
+
+
+
+
+
+
+
